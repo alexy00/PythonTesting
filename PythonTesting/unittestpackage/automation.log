@@ -1,0 +1,20 @@
+02/10/2017 02:08:44 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+02/10/2017 02:08:45 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+02/10/2017 02:08:48 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+02/10/2017 02:08:48 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+02/10/2017 02:08:48 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+02/10/2017 02:08:49 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+02/10/2017 02:08:49 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+02/10/2017 02:08:52 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+02/10/2017 02:08:52 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+02/10/2017 02:08:52 PM - LoginPage - INFO: Element Found
+02/10/2017 02:08:52 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+02/10/2017 02:08:56 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+02/10/2017 02:08:56 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+02/10/2017 02:08:56 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+02/10/2017 02:08:56 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+02/10/2017 02:08:57 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+02/10/2017 02:08:57 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+02/10/2017 02:09:01 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+02/10/2017 02:09:01 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+02/10/2017 02:09:01 PM - LoginPage - INFO: Element Found

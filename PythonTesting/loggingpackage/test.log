@@ -1,0 +1,5 @@
+03/17/2017 12:09:12 PM - LoggerDemoConf - DEBUG - debug message
+03/17/2017 12:09:12 PM - LoggerDemoConf - INFO - info message
+03/17/2017 12:09:12 PM - LoggerDemoConf - WARNING - warn message
+03/17/2017 12:09:12 PM - LoggerDemoConf - ERROR - error message
+03/17/2017 12:09:12 PM - LoggerDemoConf - CRITICAL - critical message
